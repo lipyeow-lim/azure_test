@@ -39,7 +39,8 @@
             "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
             "principalIdDisplayName": "Lighthouse User Access Administrator",
             "delegatedRoleDefinitionIds": [
-                      "a638d3c7-ab3a-418d-83e6-5f17a39d4fde"
+                      "a638d3c7-ab3a-418d-83e6-5f17a39d4fde",
+                      "e40ec5ca-96e0-45a2-b4ff-59039f2c2b59"
             ]                  
           }
         ]

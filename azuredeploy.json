@@ -43,7 +43,18 @@
                       "e40ec5ca-96e0-45a2-b4ff-59039f2c2b59",
                       "b24988ac-6180-42a0-ab88-20f7382dd24c"
             ]                  
+          },
+          {
+            "principalId": "967a2447-839b-446d-83e3-f829c8f916b4",
+            "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
+            "principalIdDisplayName": "Lighthouse User Access Administrator",
+            "delegatedRoleDefinitionIds": [
+                      "a638d3c7-ab3a-418d-83e6-5f17a39d4fde",
+                      "e40ec5ca-96e0-45a2-b4ff-59039f2c2b59",
+                      "b24988ac-6180-42a0-ab88-20f7382dd24c"
+            ]                  
           }
+
         ]
       }
     },
